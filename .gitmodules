@@ -1,0 +1,9 @@
+[submodule "DESKTOP"]
+	path = DESKTOP
+	url = https://github.com/JesusSePe/UnDefined-DESKTOP
+[submodule "APP"]
+	path = APP
+	url = https://github.com/JesusSePe/UnDefined-APP
+[submodule "LIB"]
+	path = LIB
+	url = https://github.com/JesusSePe/UnDefined-LIB
